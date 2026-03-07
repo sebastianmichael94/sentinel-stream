@@ -1,3 +1,5 @@
+# Infrastructure orchestration for Kafka (Messaging) and PostgreSQL (Storage)
+# Optimized with Kafka-UI for real-time stream observability
 version: "3.8"
 
 services:
